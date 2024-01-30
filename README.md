@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yoomanzz
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning javaScirpt,html,css,androidStudio
+- 🌱 I’m currently learning javaScirpt,html,css,android Studio
 - 📫 How to reach me by wa,ig,fb
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm just 15 years old 
